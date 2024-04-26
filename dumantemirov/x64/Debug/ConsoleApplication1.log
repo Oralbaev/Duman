@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(53,13): warning C4566: символ, представленный универсальным именем символа "\u04E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,21): warning C4566: символ, представленный универсальным именем символа "\u0493", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62,63): warning C4566: символ, представленный универсальным именем символа "\u04A3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,17): warning C4566: символ, представленный универсальным именем символа "\u04AF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,21): warning C4566: символ, представленный универсальным именем символа "\u04AF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,21): warning C4566: символ, представленный универсальным именем символа "\u04A3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,21): warning C4566: символ, представленный универсальным именем символа "\u04AF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\USER\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(96,13): warning C4566: символ, представленный универсальным именем символа "\u04AF", невозможно представить в текущей кодовой странице (1251)
+  ConsoleApplication1.vcxproj -> C:\Users\USER\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
